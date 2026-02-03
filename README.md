@@ -1,0 +1,1 @@
+The Event Management REST API is a Spring Boot–based web application designed to manage events efficiently. It allows event organizers to create, read, update, and delete events using RESTful web services. The project follows industry best practices and demonstrates real-world backend development using Spring Boot.
